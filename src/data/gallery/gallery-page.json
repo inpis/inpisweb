@@ -1,0 +1,14 @@
+[
+    {
+        "galleryImage": "imagegallery-01.png",
+        "tittle"      : "Kenzo Fitness: Health & Fitness"
+    },
+    {
+        "galleryImage": "imagegallery-02.png",
+        "tittle"      : "Bhog: Food Ordering App"
+    },
+    {
+        "galleryImage": "imagegallery-03.jpg",
+        "tittle"      : "Kalakrati Bazar: Ecommerce "
+    }
+]

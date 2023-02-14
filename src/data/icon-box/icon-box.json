@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "uniqClass": "fa fa-desktop",
+        "boxIcon": "bx bx-hot",
+        "title": "Best Service        ",
+        "subTitle": "Lorem ipsum dolor sit, amet consectetur elit."
+    },
+    {
+        "id": "2",
+        "uniqClass": "fa fa-balance-scale",
+        "boxIcon": "bx bx-hot",
+        "title": "Affordable Price",
+        "subTitle": "Lorem ipsum dolor sit, amet consectetur elit."
+    },
+    {
+        "id": "3",
+        "uniqClass": "fa fa-ambulance",
+        "boxIcon": "bx bx-hot",
+        "title": "24/7 Support",
+        "subTitle": "Lorem ipsum dolor sit, amet consectetur elit."
+    }
+]

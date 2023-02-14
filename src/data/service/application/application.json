@@ -1,0 +1,33 @@
+{
+
+    "dataList": [
+        {
+            "id": "1",
+            "boxIcon": "gtn gtn-apartment-light",
+            "title": "Application Development ",
+            "subTitle": "Increase business value with enhanced application development services.   ",
+            "content" : "Looking for custom built applications to propel your business forward?  "
+        },
+        {
+            "id": "2",
+            "boxIcon": "flaticon-reading",
+            "title": "Domain Consulting     ",
+            "subTitle": "iNichepro Provides Domain-Specific Consulting for Application Services.",
+            "content" : "Looking for key insights to optimize your IT landscape?       "
+        },
+        {
+            "id": "3",
+            "boxIcon": "flaticon-teacher",
+            "title": "Commercial Design",
+            "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+            "content" : ""
+        },
+        {
+            "id": "4",
+            "boxIcon": "flaticon-unlimited",
+            "title": "Industrial Design",
+            "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+            "content" : ""
+        }
+    ]
+}

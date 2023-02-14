@@ -1,0 +1,46 @@
+{
+
+    "dataList": [
+        {
+            "id": "1",
+            "targetId": "desi",
+            "imgUrl": "course-2.jpg",
+            "authorImg": "author.jpg"
+  
+        },
+        {
+            "id": "2",
+            "targetId": "deve",
+            "imgUrl": "course-2.jpg",
+            "authorImg": "author.jpg"
+      
+        },
+        {
+            "id": "3",
+            "targetId": "seo",
+            "imgUrl": "course-2.jpg",
+            "authorImg": "author.jpg"
+
+        },
+        {
+            "id": "4",
+            "targetId": "prog",
+            "imgUrl": "course-2.jpg",
+            "authorImg": "author.jpg",
+            "authorName": "Jim Hunt"
+        },
+        {
+            "id": "5",
+            "targetId": "desi",
+            "imgUrl": "course-2.jpg",
+            "authorImg": "author.jpg",
+            "authorName": "Sara Kim"
+        },
+        {
+            "id": "6",
+            "targetId": "deve",
+            "imgUrl": "course-2.jpg",
+            "authorImg": "author.jpg"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "secTitle": "What Clients Say About Us ",
+    "backgroundImage": "testi-bg-1-1.jpg",
+    "dataList": [
+        {
+            "id": "1",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitation maior. Placeat repellat, et totam optio. Sequi qui laborum ratione cumque tempo totam voluptatum.",
+            "authorImg": "person.webp",
+            "authorName": "David Show",
+            "authorTitle": "Developer"
+        },
+        {
+            "id": "2",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitation maior. Placeat repellat, et totam optio. Sequi qui laborum ratione cumque tempo totam voluptatum.",
+            "authorImg": "person.webp",
+            "authorName": "Tom Parker",
+            "authorTitle": "Programmer"
+        }
+        ,
+        {
+            "id": "3",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitation maior. Placeat repellat, et totam optio. Sequi qui laborum ratione cumque tempo totam voluptatum.",
+            "authorImg": "person.webp",
+            "authorName": "Tom Parker",
+            "authorTitle": "Programmer"
+        }
+        ,
+        {
+            "id": "4",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitation maior. Placeat repellat, et totam optio. Sequi qui laborum ratione cumque tempo totam voluptatum.",
+            "authorImg": "person.webp",
+            "authorName": "Tom Parker",
+            "authorTitle": "Programmer"
+        }
+    ]
+}
